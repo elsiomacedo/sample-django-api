@@ -1,6 +1,7 @@
 *.pyc
 *.sqlite*
 .idea/*
+api/migrations/*
 .DS_Store
 .DS_Store?
 ._*
